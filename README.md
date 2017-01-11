@@ -1,2 +1,2 @@
 # telegram_forecast_bot
-just tried
+It uses https://openweathermap.org/ API to yield the forecast.
